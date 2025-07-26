@@ -1,0 +1,9 @@
+.vs/
+.git/
+node_modules/
+# Ignorar tudo exceto o necessário para produção
+*
+!lib/
+!package.json
+!README.md
+!LICENSE
